@@ -7,6 +7,10 @@ Enter schoolVirus-front and schoolVirus-back, execute the command.
 ```
 $ npm install
 ```
+if error
+```
+$ npm install --legacy-peer-deps
+```
 
 ## Usage
 
@@ -15,7 +19,7 @@ $ npm install
 Enter schoolVirus-front:
 
 ```
-$ $npm run dev
+$ npm run dev
 ```
 
 ### Run front and back together
